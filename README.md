@@ -1,6 +1,8 @@
 # ElPecado | VRC - MAP Settings
 This branch is used to store settings and images of the worlds for [ElPecado](discord.gg/xgXMskVCPB)
 
+![EL-PECADO2](https://github.com/Super-Equipo-3D/VRC-Map-Settings/assets/25410859/dbf0c5d6-e2e6-4e03-a098-b377c26cdcff)
+
 ## Nuestros Mapas
 
 **Publicos**
