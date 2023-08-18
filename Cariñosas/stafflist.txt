@@ -8,7 +8,7 @@ ItzYukiVR:Staff:MOD
 Orthas:Staff:MOD
 yetroxGM:Staff:MOD
 RuzuChan:Staff:MOD
-«༒ExoticAshes༒»:Staff:MOD
+«༒ExoticAshes༒»:Staff:DancerManager
 Edel4500:Staff:MOD
 iyatsu:Staff:MOD
 Desu-:Staff:MOD
