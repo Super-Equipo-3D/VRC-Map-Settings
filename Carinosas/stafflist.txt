@@ -1,6 +1,6 @@
 valenvrc:Admin:Developer
-DiosCarmesi:Admin:Developer
-venadoparlante.:DJ:
+DiosCarmesi:Admin:MapMaker
+venadoparlante.:DJ:None
 Nastic Hope:Staff:MOD
 Drakxan:Staff:MOD
 Strikkerz°°:Staff:MOD
