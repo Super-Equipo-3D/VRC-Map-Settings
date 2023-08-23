@@ -1,5 +1,5 @@
 valenvrc:Admin:Developer
-DiosCarmesi:Admin:MapMaker
+DiosCarmesi:Admin:Developer
 venadoparlante.:DJ:
 Nastic Hope:Staff:MOD
 Drakxan:Staff:MOD
@@ -15,3 +15,11 @@ Desu-:Staff:MOD
 ༺๖ۣۜƊerpysΐt๏༻:Staff:MOD
 Yuuki Natsurami:VIP:
 Nartag:VIP:
+Matiusito:VIP:
+Nazuru:VIP:
+Sainthe:VIP:
+Kwh0:VIP:
+Zuggar:VIP:
+E N D O O:VIP:
+Okarin_san:VIP:
+YampiiBoy:VIP:
