@@ -1,11 +1,23 @@
 Cariñosas:
 - Dj (un erro del amplificador es que cuando se apaga la persona amplificada sigue amplificada.).
-- Ajustar el amplificador porque parece ser que si el usuario roza la colicion parece ser que se le activa.
+- Ajustar el amplificador porque parece ser que si el usuario roza la collicion parece ser que se le activa.
 - AudioLink (compatible en Quest).
 - Bebidas con efectos.
 - Permitir que los admins puedan bloquear el reproductor.
 - Boquear links externos y que solo permitan links de Youtube o twitch.
 - Collar (editar el prefabs de los collares para que se pueda usar el modelo 3D que se subio previamente).
+- Oficina Respawn: agregar un boton en el escritorio de la oficina. (si es posible reciclar el boton de las cartas), este boton al oprimirse debera enviar
+enviar a todos los usuarios que no tengan un rol (admin, staft) al respawn. unicamente usuarios que se encuentran dentro de la oficina.
+- Bug: los banners de la cabeza (MOD, developer, MapMaker) tienes 2 problemas:
+            - Aveces no se posiciona en la cabeza (segun 3D master dice que es dependiendo cuando entro el usuario es decir usuarios que estuvieran antes
+              no podran ver el banner del usuario de mos MOD y Developer).
+            - segun Noch: Que tracker el headset no el hueso de la cabeza
+              Y que haga una validación que el usuario existe. Ya que si no lo hace y el usuario se va, el script se va a romper
+            - Cuando el usuario se desconecta el banner sigue en la posicion donde se desconecto el MOD.
+- necesito un script al momento de hacer contacto Box collider cambien el material. como Easy switch que segun el Skin Mesh render puede cambiar el material
+  de PC a Quest. informacion para mas contexto: poder cambiar los materiales como el SSR a un material LIT. ya que actualmente el material de los reflejos 
+  se sigue manteniendo cargado.
+- revisar el codigo de fox de las habitaciones privadas (aun se sigue teniendo problemas).
 
 
 Cine spanish
