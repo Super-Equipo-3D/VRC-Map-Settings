@@ -1,6 +1,6 @@
 Cariñosas:
 - Dj (un erro del amplificador es que cuando se apaga la persona amplificada sigue amplificada.).
-- Ajustar el amplificador porque parece ser que si el usuario roza la collicion parece ser que se le activa.
+- BUG: Ajustar el amplificador porque parece ser que si el usuario roza la collicion parece ser que se le activa.
 - AudioLink (compatible en Quest).
 - Bebidas con efectos.
 - Permitir que los admins puedan bloquear el reproductor.
