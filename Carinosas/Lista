@@ -21,6 +21,9 @@ enviar a todos los usuarios que no tengan un rol (admin, staft) al respawn. unic
 - La TV Calendario/Anuncions/VIPS:
             - aun falta que log del staft (que escriba los nombres de los admins presentes).
             - Bug: el texto de los VIPS se estan saliendo del contenedor y tambien esta repitiendo nombres.
+- Cuando el usario entre al baño o este en el exterior de la terraza el audio del videoplayer deberia escucharse diferente
+            (como cuando se escucha detras de las paredes el sonido) 
+
 
 
 Cine spanish
