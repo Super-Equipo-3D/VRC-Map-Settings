@@ -9,6 +9,7 @@ TheMisho:Staff:MOD
 Orthas:Staff:MOD
 yetroxGM:Staff:MOD
 RuzuChan:Staff:MOD
+Demons_616:Staff:MOD
 «༒ExoticAshes༒»:Staff:DancerManager
 Edel4500:Staff:OWNER
 lcon4500:Staff:OWNER
