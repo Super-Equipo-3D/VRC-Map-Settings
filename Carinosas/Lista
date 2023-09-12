@@ -1,8 +1,6 @@
 Cariñosas:
 - Bebidas con efectos.
 - Permitir que los admins puedan bloquear el reproductor.
-- Oficina Respawn: agregar un boton en el escritorio de la oficina. (si es posible reciclar el boton de las cartas), este boton al oprimirse debera enviar
-enviar a todos los usuarios que no tengan un rol (admin, staft) al respawn. unicamente usuarios que se encuentran dentro de la oficina.
 - Bug: los banners de la cabeza (MOD, developer, MapMaker) tienes 2 problemas:
             - Aveces no se posiciona en la cabeza (segun 3D master dice que es dependiendo cuando entro el usuario es decir usuarios que estuvieran antes
               no podran ver el banner del usuario de mos MOD y Developer).
