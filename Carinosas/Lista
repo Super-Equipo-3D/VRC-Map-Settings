@@ -11,7 +11,8 @@ enviar a todos los usuarios que no tengan un rol (admin, staft) al respawn. unic
             - Cuando el usuario se desconecta el banner sigue en la posicion donde se desconecto el MOD.
 - Cuando el usario entre al baño o este en el exterior de la terraza el audio del videoplayer deberia escucharse diferente
             (como cuando se escucha detras de las paredes el sonido) 
-
+- Tener un log en la oficina donde muestren las personas que se han unido a la instancia y hora.
+- Tener otro log de personas que hayan puesto videos durante toda las instancia (nombre y link del video). 
 
 
 Cine spanish
