@@ -10,6 +10,7 @@ Orthas:Staff:MOD
 yetroxGM:Staff:MOD
 RuzuChan:Staff:MOD
 Demons_616:Staff:MOD
+Icon4500-:MOD
 «༒ExoticAshes༒»:Staff:Lead Dancer
 Edel4500:Staff:OWNER
 lcon4500:Staff:OWNER
@@ -43,3 +44,4 @@ aguaoyarianna60f4:VIP:
 lordshadow121:VIP:
 aguaoyarianna 60f4:VIP:
 OmarSC:VIP:
+~Tai:VIP:
