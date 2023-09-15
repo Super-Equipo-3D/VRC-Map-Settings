@@ -10,7 +10,7 @@ Orthas:Staff:MOD
 yetroxGM:Staff:MOD
 RuzuChan:Staff:MOD
 Demons_616:Staff:MOD
-Icon4500-:MOD
+Icon4500-:Staff:OWNER
 «༒ExoticAshes༒»:Staff:Lead Dancer
 Edel4500:Staff:OWNER
 lcon4500:Staff:OWNER
