@@ -17,7 +17,7 @@ lcon4500:Staff:OWNER
 iyatsu:Staff:MOD
 Desu-:Staff:MOD
 ༺๖ۣۜƊerpysΐt๏༻:Staff:MOD
-SugarLoliUwU:Staff:MOD
+SugarLoliUwU:Staff
 Yuuki Natsurami:VIP:
 Nartag:VIP:
 Matiusito:VIP:
