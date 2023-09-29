@@ -19,3 +19,14 @@ Cine spanish
 Furry Spanish
 - El sonido de la ciudad se bugea y no se escucha o se deja de esuchar.
 - El sonido de la rocola no funciona.
+
+Mapa de eventos CariEvents:
+            - Sistema de pantallas Stage: de izquierda a derecha sera la enumeracion.
+                        - la primera pantalla debera motras una imagen que se podra cargar como los carteles (se explicara mas adelante).
+                        - la segunda pantalla debera mostrar las 7 camaras (las cuales se podran cambiar con el panel que se encuentra en el diplay 2).
+                        - la tercera pantalla debera mostrar el videoplayer.
+            - la consola del tecnico (donde estan las computadoras y pantallas). deberan tener los siguientes toggles
+                        - cambiar las pantallas del Stage por las siguientes 3 pantallas: Videoplayer, Imagen y PickUpcamara.
+                        - permitir poner un link raw.github para cambiar la imagen de las pantallas (para presentar anuncios, imagenes, dancers, etc). que se pueda usar mas de una vez y de forma global.
+                        - entre los 3 toogles mencionados deberan apagarse los 2 cuando uno sea seleccionado.
+                        - Silenciar de forma global los parlantes de forma global.
