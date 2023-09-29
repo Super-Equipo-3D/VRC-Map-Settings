@@ -21,7 +21,7 @@ Furry Spanish
 - El sonido de la rocola no funciona.
 
 Mapa de eventos CariEvents:
-            - Sistema de pantallas Stage: de izquierda a derecha sera la enumeracion.
+            - Sistema de pantallas BackStage: de izquierda a derecha sera la enumeracion.
                         - la primera pantalla debera motras una imagen que se podra cargar como los carteles (se explicara mas adelante).
                         - la segunda pantalla debera mostrar las 7 camaras (las cuales se podran cambiar con el panel que se encuentra en el diplay 2).
                         - la tercera pantalla debera mostrar el videoplayer.
