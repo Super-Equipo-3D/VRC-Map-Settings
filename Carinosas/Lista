@@ -1,12 +1,5 @@
 Cariñosas:
 - Bebidas con efectos.
-- Permitir que los admins puedan bloquear el reproductor.
-- Bug: los banners de la cabeza (MOD, developer, MapMaker) tienes 2 problemas:
-            - Aveces no se posiciona en la cabeza (segun 3D master dice que es dependiendo cuando entro el usuario es decir usuarios que estuvieran antes
-              no podran ver el banner del usuario de mos MOD y Developer).
-            - segun Noch: Que tracker el headset no el hueso de la cabeza
-              Y que haga una validación que el usuario existe. Ya que si no lo hace y el usuario se va, el script se va a romper
-            - Cuando el usuario se desconecta el banner sigue en la posicion donde se desconecto el MOD.
 - Cuando el usario entre al baño o este en el exterior de la terraza el audio del videoplayer deberia escucharse diferente
             (como cuando se escucha detras de las paredes el sonido) 
 - Tener un log en la oficina donde muestren las personas que se han unido a la instancia y hora.
